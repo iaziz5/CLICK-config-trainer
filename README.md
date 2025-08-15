@@ -39,5 +39,3 @@ This project is designed to make learning **IoT communication** and **flow-based
   - Color-coded terminal themes with icons
 
 ---
-
-## 📂 Project Structure
